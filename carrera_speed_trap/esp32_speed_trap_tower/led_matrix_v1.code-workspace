@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../esp32_speed_trap_tower"
+		},
+		{
+			"name": "esp32_speed_trap_tower",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
