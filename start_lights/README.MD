@@ -166,8 +166,8 @@ void uart_interrupt(void){
 ```
 
 # Documentation
-- [How the Lights Work](/documents/how_the_lights_work.md)
-- [Getting Started](/documents/getting_started.md)
+- [How the Lights Work](/start_lights/documents/how_the_lights_work.md)
+- [Getting Started](/start_lights/documents/getting_started.md)
 
 # Contribute & Support
 
