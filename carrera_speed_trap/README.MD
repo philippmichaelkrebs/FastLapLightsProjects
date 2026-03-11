@@ -92,9 +92,13 @@ Für dieses Projekt benötigst du den FastLapLights-Controller sowie folgende Ko
 
 ## Repository-Struktur
 
-* Documents – Schaltpläne und technische Unterlagen
-* pictures – Beispielbilder des Aufbaus
-* stl – 3D-Druckdateien für Gehäuse und Halterungen
+* Documents - Schaltpläne und technische Unterlagen
+* pictures - Beispielbilder des Aufbaus
+* stl - 3D-Druckdateien für Gehäuse und Halterungen
+* misc - Aktuell Python-Skripte die dir dabei helfen Änderungen vorzunehmen
+  * `bmp_to_arr.py`: Erstellt aus einem Bitmap ein uin16_t array
+  * `color_calculator.py`: Berechnet aus hsv oder rgb Werten den zugehörigen Wert für das Display
+  * `speed_calculator.py`: Berechnet aus einer Geschwindigkeit die Ticks zur Übermittlung an STM32
 
 ---
 
